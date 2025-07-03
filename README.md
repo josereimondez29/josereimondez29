@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Reimondez</h1>
-<h3 align="center">Full Stack Software Developer, with experience in leadership and teamwork, excellent communication skills and currently working on projects with technologies such as HTML, CSS, JavaScript, React, Python SQL and Flask.</h3>
+<h3 align="center">💻🐍Python Software Developer, with experience in leadership and teamwork, excellent communication skills and currently working on projects with technologies such as Python, Keras, Tensorflow, Docker, Microservicios, Kubernetes, ETL, API Rest, Pandas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josereimondez29&label=Profile%20views&color=0e75b6&style=flat" alt="josereimondez29" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/josereimondez" target="blank"><img src="https://img.shields.io/twitter/follow/josereimondez?logo=twitter&style=for-the-badge" alt="josereimondez" /></a> </p>
 
-- 🔭 I’m currently working on [Mediconecta](https://github.com/josereimondez29/Hospital-Online-Mediconecta)
+- 🔭 I’m currently working on [DataScienceEcosystem]([https://github.com/josereimondez29/DataScienceEcosystem])
 
-- 🌱 I’m currently learning **Generative an Neuronal IA**
+- 🌱 I’m currently learning **Generative and Neuronal IA**
 
 - 👨‍💻 All of my projects are available at [https://josereimondez.com/](https://josereimondez.com/)
 
-- 💬 Ask me about **React, Python**
+- 💬 Ask me about **Data Science, Python**
 
 - 📫 How to reach me **josereimondez29@gmail.com**
 
