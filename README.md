@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Mediconecta](https://github.com/josereimondez29/Hospital-Online-Mediconecta)
 
-- 🌱 I’m currently learning **HTML, CSS, React, JavaScript, Python, JWT**
+- 🌱 I’m currently learning **Generative an Neuronal IA**
 
 - 👨‍💻 All of my projects are available at [https://josereimondez.com/](https://josereimondez.com/)
 
